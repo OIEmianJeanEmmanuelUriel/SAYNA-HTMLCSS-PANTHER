@@ -1,0 +1,123 @@
+.corps1{
+    background-image: url("C:/Users/hp/Downloads/All pages/arrière_plan.png");
+}
+
+
+.chef{
+    text-align: right;
+}
+
+
+h1{
+    color: #f2cef2
+}
+
+h3{
+    color: #f2cef2
+}
+
+h3{
+    color: #f2cef2;
+}
+
+h4{
+    color: white;
+}
+
+h5{
+    color: white;
+}
+
+p{
+    color: white
+}
+
+.danse{
+    columns:3;
+   background-color: #03122f;
+}
+
+
+.portrait{
+    columns: 2;
+
+}
+
+p{
+   font-family: Arial;
+   font-size: 11px;
+
+}
+
+footer{
+    background-image: url("C:/Users/hp/Downloads/All pages/back_footer.png");
+}
+
+.contact{ 
+    display: block;
+    text-decoration: center;
+    justify-content: center;
+    height: 100px;
+    padding-right: 120px;
+    background-image:url("C:/Users/hp/Downloads/Accueil/Pantherhome7.png");    
+}
+
+
+.pays{
+    text-align: right;
+    
+}
+
+.partone{
+    position: 20px;
+}
+
+.button{
+    color: #021740;
+}
+
+.contact{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 75px;
+}
+
+.pages{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box::after{
+    display: block;
+    padding-bottom: 30%;
+
+}
+
+.Elvire{
+    background-image: url("C:/Users/hp/Downloads/Wakanda/Pantherwakanda2.png");
+    opacity: 100%;
+}
+
+footer{
+    background-image: url("C:/Users/hp/Downloads/All pages/back_footer.png");
+    position: relative;
+    display: block;
+    width: 100%;
+    height: max-content;
+    columns: 2;
+    align-items: ;
+}
+
+.toto{
+    columns: 2;
+}
+
+.nom{
+    border-radius: 30em;
+    background-color: #fff;
+    border-bottom: 0px;
+    width: 200px;
+    height: 40px;
+}

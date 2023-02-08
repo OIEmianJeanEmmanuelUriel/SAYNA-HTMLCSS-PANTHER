@@ -1,0 +1,99 @@
+.corps{
+    background-image: url("C:/Users/hp/Downloads/All pages/arrière_plan.png");
+}
+
+.link{
+    text-align: right;
+}
+
+.omo{
+    columns: 2;
+    text-align: right;
+}
+
+.img{
+    text-align: left;
+}
+
+.intro{
+    text-align: right;
+}
+
+.citation{
+    color:  #9e91b7;
+    text-align: left;
+    justify-content: left;
+    font-size: large;
+}
+
+.transc{
+    color:  #9e91b7;
+    text-align: left;
+    justify-content: left;
+    font-size: small;
+}
+
+.envy{
+    color:  #9e91b7;
+    text-align: right;
+    justify-content: right;
+    font-size: small;
+}
+
+
+.btn{
+    background-color: #9e91b7;
+    border-radius: 38px; /* Coins arrondis */
+    text-align: center; /* Centrer le texte */
+    width: 147px;
+    height: 50px;
+    }
+
+.btn a{
+    text-decoration: none; /* Supprimer le soulignage du lien */
+    line-height: 42px; /* Changer la hauteur de la ligne d'écriture */
+    color: #fff; /* Couleur du texte blanche */
+    }
+
+.btn:hover {
+    background-color: #f2cef2; /* On modifie la couleur du fond au passage de la souris */ 
+    }
+
+.reponse{
+        border-radius: 38em;
+        background-color: #010818;
+        border-bottom: 0px;
+        width: 520px;
+        height: 56px;
+    }
+
+p{
+    color:  #9e91b7;
+}
+
+
+h1{
+    color:  #9e91b7;
+}
+
+h5{
+    color: #9e91b7;
+}
+    
+
+footer{
+    background-image: url("C:/Users/hp/Downloads/All pages/back_footer.png");
+    columns: 3 ;
+}
+
+.colomb{
+    text-align: center;
+}
+
+.intel{
+    text-align: right;
+}
+
+.develo{
+    columns: ;
+}
